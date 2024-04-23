@@ -1,0 +1,7 @@
+C:\Users\Thanay\source\repos\CrudOperationsWithAdo.net\CrudOperationsWithAdo.net\bin\Debug\CrudOperationsWithAdo.net.exe.config
+C:\Users\Thanay\source\repos\CrudOperationsWithAdo.net\CrudOperationsWithAdo.net\bin\Debug\CrudOperationsWithAdo.net.exe
+C:\Users\Thanay\source\repos\CrudOperationsWithAdo.net\CrudOperationsWithAdo.net\bin\Debug\CrudOperationsWithAdo.net.pdb
+C:\Users\Thanay\source\repos\CrudOperationsWithAdo.net\CrudOperationsWithAdo.net\obj\Debug\CrudOperationsWithAdo.net.csproj.AssemblyReference.cache
+C:\Users\Thanay\source\repos\CrudOperationsWithAdo.net\CrudOperationsWithAdo.net\obj\Debug\CrudOperationsWithAdo.net.csproj.CoreCompileInputs.cache
+C:\Users\Thanay\source\repos\CrudOperationsWithAdo.net\CrudOperationsWithAdo.net\obj\Debug\CrudOperationsWithAdo.net.exe
+C:\Users\Thanay\source\repos\CrudOperationsWithAdo.net\CrudOperationsWithAdo.net\obj\Debug\CrudOperationsWithAdo.net.pdb
